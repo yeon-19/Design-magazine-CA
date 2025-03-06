@@ -741,7 +741,7 @@ html.fp-enabled,
 #post{
   width: 158px;
   height: 77px;
-  margin: auto;
+  margin: 10px auto;
   text-align: center;
   font-size: 12px;
   font-family: 'Noto Sans KR', sans-serif;
@@ -787,7 +787,7 @@ html.fp-enabled,
 #pigback{
   width: 213px;
   height: 190px;
-  margin-top: 135px;
+  margin-top: 150px;
   margin-left: 40px;
   transition: all ease 1s;
 }
@@ -795,7 +795,7 @@ html.fp-enabled,
 #pigback:hover{
   width: 213px;
   height: 190px;
-  margin-top: 135px;
+  margin-top: 150px;
   margin-left: 0px;
 }
 
